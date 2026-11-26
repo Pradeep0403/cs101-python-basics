@@ -1,1 +1,1 @@
-print("Hello from Python!")
+print("Welcome to my CS101 Python programs!")
