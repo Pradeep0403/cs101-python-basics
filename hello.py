@@ -1,1 +1,1 @@
-print("Hello, CS101!")
+print("Hello from Python!")
